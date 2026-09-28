@@ -1,179 +1,136 @@
-# c#_practice_repo2
-c# programing language
-c#_practice_Repo
-C# PROGRAMING LANGUAGE Chapter One – Introduction to Visual C#
+# C# Programming I
+## Course Information
 
-Objects
-An object is a program component that contains data and performs operations.
+| Item | Details |
+| :--- | :--- |
+| **Course Title** | C# Programming I |
+| **Course Code** | CA221 |
+| **Department** | Computer Application |
+| **Faculty** | Computer & Information Technology |
+| **University** | Jamhuriya University of Science & Technology |
+| **Academic Year** | 2026 |
+| **Semester** | IV |
+| **Prerequisite** | Introduction Programming |
+| **Course Coordinator** | Yahye Ali Isse |
 
-Properties describe the data or characteristics of an object.
-Methods describe the operations an object can perform.
-Controls are visible objects used in a graphical user interface.
-Examples of controls are:
-Button
-Label
-TextBox
-PictureBox
-Classes
-A class describes a type of object. In C#, objects and controls are based on classes.
+---
+## Course Description
+Write a short description of the course here.
+---
+## Course Objectives
+By the end of this course, students should be able to:
+* Understand the fundamentals of C# programming.
+* Apply programming logic and problem-solving techniques.
+* Understand event-driven programming.
+* Develop graphical user interface applications.
+* Work with methods, arrays, lists, and files.
+* Connect C# applications with databases.
+* Develop desktop applications.
+---
+## Course Content
 
-.NET
-.NET is a collection of classes and programming code used to support application development.
+| Week | Topic | Chapter |
+| :--- | :--- | :--- |
+| Week 1 | Introduction to Visual C# | Chapter 1 |
+| Week 2 | Processing Data | Chapter 2 |
+| Week 3 | Making Decisions | Chapter 3 |
+| Weeks 4–5 | Loops, Files, and Random Numbers | Chapter 4 |
+| Weeks 6–7 | Modularizing Your Code with Methods | Chapter 5 |
+| Weeks 8–9 | Arrays and Lists | Chapter 6 |
+| Weeks 10–11 | ADO.NET | Chapter 7 |
+| Week 12 | Sample Project |  |
+| Weeks 13–14 | Build Desktop Application | Chapter 8 |
 
-C# is supported by the .NET platform.
+---
+## Learning Outcomes
+After completing the course, students should be able to:
+1. Understand Windows and event-driven programming.
+2. Develop GUI applications.
+3. Apply programming logic when solving problems.
+4. Use C# programming structures correctly.
+5. Use methods to organize programs.
+6. Work with arrays and lists.
+7. Connect applications to databases using ADO.NET.
+8. Develop small- to medium-sized Windows applications.
+---
+## Course Materials
+### Lectures
+* Lecture 01 - Introduction to Visual C#
+* Lecture 02 - Processing Data
+* Lecture 03 - Making Decisions
+* Lecture 04 - Loops
+* Lecture 05 - Files and Random Numbers
+* Lecture 06 - Methods
+* Lecture 07 - Arrays and Lists
+* Lecture 08 - ADO.NET
+* Lecture 09 - Desktop Application Development
+### Labs
+* Lab 01
+* Lab 02
+* Lab 03
+* Lab 04
+* Lab 05
+### Assignments
+* Assignment 01
+* Assignment 02
+* Assignment 03
+---
+## Assessment
 
-Visual Studio
-Visual Studio is an Integrated Development Environment (IDE) used to create C# applications.
+| Assessment | Weight |
+| :--- | :--- |
+| Midterm Exam | 30% |
+| Labs and Home Assignments | 15% |
+| Final Exam | 30% |
+| Labs and Home Assignments | 10% |
+| Project | 15% |
+| **Total** | **100%** |
 
-Important parts of Visual Studio include:
-Designer Window
-Solution Explorer
-Properties Window
-Toolbox
-Menu and Toolbar
-Toolbox
-The Toolbox contains controls that can be added to a Windows Form.
-
-Examples:
-Button
-Label
-TextBox
-PictureBox
-Project
-A project is an application that contains the files and resources needed to create a program.
-
-Solution
-A solution is a container that can contain one or more projects.
-
-Windows Forms
-Windows Forms is used to create graphical user interfaces for Windows applications.
-
-A Form is the main window where controls are placed.
-
-3 Properties
-
-Properties describe or control the appearance and behavior of a Form or control.
-
-Examples include:
-Name
-Text
-Font
-BorderStyle
-AutoSize
-TextAlign
-Image
-SizeMode
-Visible
-Naming Controls
-Control names should follow naming rules.
-
-Important rules:
-The first character must be a letter or underscore.
-Other characters can be letters, numbers, or underscores.
-Spaces are not allowed.
-Meaningful names should be used.
-GUI
-GUI means Graphical User Interface.
-
-It allows users to interact with an application through visual controls such as Buttons, Labels, TextBoxes, and PictureBoxes.
-
-C# Program Structure
-C# programs are organized into several levels:
-
-Namespace – contains classes.
-Class – contains methods.
-Method – contains statements.
-Statements – instructions executed by the program.
-Event-Driven Programming
-Windows Forms applications are event-driven.
-
-The program responds to events caused by the user or the system.
-
-Examples of events include:
-
-Clicking a Button
-Interacting with controls
-Closing a Form
-Label Control
-A Label is a control used to display text on a Form.
-
-Important Label properties include:
-
-Text
-Name
-Font
-BorderStyle
-AutoSize
-TextAlign
-IntelliSense
-IntelliSense is a Visual Studio feature that provides automatic code completion and information while writing code.
-
-It can help with:
-
-Keywords
-Variables
-Methods
-Classes
-Properties
-PictureBox Control
-PictureBox is a control used to display images.
-
-Important PictureBox properties include:
-
-Image
-SizeMode
-Visible
-Sequential Execution
-C# statements normally execute in the order they are written.
-
-This means the first statement executes before the next statement.
-
-Comments
-Comments are notes written in source code to explain the code.
-
-Comments are not executed by the program.
-
-There are two types:
-
-Single-line comments
-Multi-line comments
-Blank Lines
-Blank lines can be used to separate sections of code and make the source code easier to read.
-
-Indentation
-Indentation organizes source code and makes the structure of the program easier to understand.
-
-Closing a Form
-A Form can be closed when the user wants to leave the current window.
-
-The application can also be completely exited.
-
-Syntax Errors
-A syntax error occurs when code does not follow the rules of the C# language.
-
-Visual Studio can identify syntax errors and indicate the location of the problem.
-
-Chapter Summary
-This chapter introduces the basic concepts of Visual C# and Windows Forms, including:
-
-Objects
-Classes
-.NET
-Visual Studio
-Toolbox
-Projects and Solutions
-Forms and Controls
-Properties
-Naming Controls
-GUI
-C# Program Structure
-Event-Driven Programming
-Label
-IntelliSense
-PictureBox
-Sequential Execution
-Comments
-Blank Lines
-Indentation
-Closing Forms
-Syntax Errors
+---
+## Course Project
+Students will develop a desktop application at the end of the semester.
+The project should demonstrate concepts learned during the course, including:
+* User interface design
+* Variables and data types
+* Decision structures
+* Loops
+* Methods
+* Arrays or lists
+* Database connectivity
+* ADO.NET
+* Desktop application development
+---
+## Software Requirements
+* Visual Studio
+* C#
+* .NET
+* Windows Forms
+* Database Management System
+---
+## Textbook
+**Starting Out With Visual C#**
+* **Author:** Tony Gaddis
+* **Publisher:** Pearson
+* **Edition:** Sixth Edition
+* **Year:** 2023
+---
+## Reference Book
+**Starting Out With Visual C#**
+* **Authors:** Tony Gaddis and Kip Irvine
+* **Publisher:** Pearson
+* **Edition:** Fourth Edition
+* **Year:** 2017
+---
+## Teaching and Learning Methods
+* Lectures
+* Laboratory sessions
+* Practical exercises
+* Assignments
+* Individual practice
+* Project-based learning
+---
+## Instructor / Coordinator
+**Yahye Ali Isse**
+Department of Computer Application
+Faculty of Computer & Information Technology
+Jamhuriya University of Science & Technology
