@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EkrA\\Downloads\\ikra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B433257-0376-4E7E-8EC5-48C00F2B7874}|ikra\\ikra.csproj|c:\\users\\ekra\\downloads\\ikra\\ikra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B433257-0376-4E7E-8EC5-48C00F2B7874}|ikra\\ikra.csproj|solutionrelative:ikra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B433257-0376-4E7E-8EC5-48C00F2B7874}|ikra\\ikra.csproj|c:\\users\\ekra\\downloads\\ikra\\ikra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B433257-0376-4E7E-8EC5-48C00F2B7874}|ikra\\ikra.csproj|solutionrelative:ikra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EkrA\\Downloads\\ikra\\ikra\\Form1.cs",
+              "RelativeDocumentMoniker": "ikra\\Form1.cs",
+              "ToolTip": "C:\\Users\\EkrA\\Downloads\\ikra\\ikra\\Form1.cs*",
+              "RelativeToolTip": "ikra\\Form1.cs*",
+              "ViewState": "AgIAABkAAAAAZmZmZuYUwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:34:44.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EkrA\\Downloads\\ikra\\ikra\\Form1.cs",
+              "RelativeDocumentMoniker": "ikra\\Form1.cs",
+              "ToolTip": "C:\\Users\\EkrA\\Downloads\\ikra\\ikra\\Form1.cs [Design]*",
+              "RelativeToolTip": "ikra\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:10:49.225Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

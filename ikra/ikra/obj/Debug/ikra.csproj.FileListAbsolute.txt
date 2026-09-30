@@ -1,0 +1,11 @@
+C:\Users\EkrA\Downloads\ikra\ikra\bin\Debug\ikra.exe.config
+C:\Users\EkrA\Downloads\ikra\ikra\bin\Debug\ikra.exe
+C:\Users\EkrA\Downloads\ikra\ikra\bin\Debug\ikra.pdb
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.csproj.AssemblyReference.cache
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.Form1.resources
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.Properties.Resources.resources
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.csproj.GenerateResource.cache
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.csproj.CoreCompileInputs.cache
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.exe
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.pdb
+C:\Users\EkrA\Downloads\ikra\ikra\obj\Debug\ikra.exe.config
