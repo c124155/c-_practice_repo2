@@ -1,0 +1,11 @@
+C:\Users\EkrA\Downloads\overtime\overtime\bin\Debug\overtime.exe.config
+C:\Users\EkrA\Downloads\overtime\overtime\bin\Debug\overtime.exe
+C:\Users\EkrA\Downloads\overtime\overtime\bin\Debug\overtime.pdb
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.csproj.AssemblyReference.cache
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.Form1.resources
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.Properties.Resources.resources
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.csproj.GenerateResource.cache
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.csproj.CoreCompileInputs.cache
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.exe
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.pdb
+C:\Users\EkrA\Downloads\overtime\overtime\obj\Debug\overtime.exe.config
