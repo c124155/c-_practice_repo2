@@ -1,0 +1,11 @@
+C:\Users\EkrA\Downloads\cheacker\cheacker\bin\Debug\cheacker.exe.config
+C:\Users\EkrA\Downloads\cheacker\cheacker\bin\Debug\cheacker.exe
+C:\Users\EkrA\Downloads\cheacker\cheacker\bin\Debug\cheacker.pdb
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.csproj.AssemblyReference.cache
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.Form1.resources
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.Properties.Resources.resources
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.csproj.GenerateResource.cache
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.csproj.CoreCompileInputs.cache
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.exe
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.pdb
+C:\Users\EkrA\Downloads\cheacker\cheacker\obj\Debug\cheacker.exe.config
