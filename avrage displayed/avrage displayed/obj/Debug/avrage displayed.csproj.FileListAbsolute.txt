@@ -1,0 +1,11 @@
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\bin\Debug\avrage displayed.exe.config
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\bin\Debug\avrage displayed.exe
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\bin\Debug\avrage displayed.pdb
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage displayed.csproj.AssemblyReference.cache
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage_displayed.Form1.resources
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage_displayed.Properties.Resources.resources
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage displayed.csproj.GenerateResource.cache
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage displayed.csproj.CoreCompileInputs.cache
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage displayed.exe
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage displayed.pdb
+C:\Users\EkrA\Downloads\avrage displayed\avrage displayed\obj\Debug\avrage displayed.exe.config
