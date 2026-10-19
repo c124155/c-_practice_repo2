@@ -1,0 +1,10 @@
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\bin\Debug\Hotel room.exe.config
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\bin\Debug\Hotel room.exe
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\bin\Debug\Hotel room.pdb
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel room.csproj.AssemblyReference.cache
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel_room.Form1.resources
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel_room.Properties.Resources.resources
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel room.csproj.GenerateResource.cache
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel room.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel room.exe
+C:\Users\IQRA\Documents\Hotel room\Hotel room\Hotel room\obj\Debug\Hotel room.pdb

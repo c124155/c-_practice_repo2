@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IQRA\\Desktop\\New folder\\c-_practice_repo2\\Hotel room\\Hotel room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B502F9-BCD5-45C3-974D-F65F5F32ED4C}|Hotel room\\Hotel room.csproj|c:\\users\\iqra\\desktop\\new folder\\c-_practice_repo2\\hotel room\\hotel room\\hotel room\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2B502F9-BCD5-45C3-974D-F65F5F32ED4C}|Hotel room\\Hotel room.csproj|solutionrelative:hotel room\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B502F9-BCD5-45C3-974D-F65F5F32ED4C}|Hotel room\\Hotel room.csproj|C:\\Users\\IQRA\\Desktop\\New folder\\c-_practice_repo2\\Hotel room\\Hotel room\\hotel room\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B502F9-BCD5-45C3-974D-F65F5F32ED4C}|Hotel room\\Hotel room.csproj|solutionrelative:hotel room\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IQRA\\Desktop\\New folder\\c-_practice_repo2\\Hotel room\\Hotel room\\Hotel room\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel room\\Form1.cs",
+              "ToolTip": "C:\\Users\\IQRA\\Desktop\\New folder\\c-_practice_repo2\\Hotel room\\Hotel room\\Hotel room\\Form1.cs",
+              "RelativeToolTip": "Hotel room\\Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:25:43.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IQRA\\Desktop\\New folder\\c-_practice_repo2\\Hotel room\\Hotel room\\Hotel room\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel room\\Form1.cs",
+              "ToolTip": "C:\\Users\\IQRA\\Desktop\\New folder\\c-_practice_repo2\\Hotel room\\Hotel room\\Hotel room\\Form1.cs [Design]",
+              "RelativeToolTip": "Hotel room\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:07:35.247Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

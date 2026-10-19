@@ -1,0 +1,10 @@
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\bin\Debug\Airline booking system.exe.config
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\bin\Debug\Airline booking system.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\bin\Debug\Airline booking system.pdb
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline booking system.csproj.AssemblyReference.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline_booking_system.Form1.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline_booking_system.Properties.Resources.resources
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline booking system.csproj.GenerateResource.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline booking system.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline booking system.exe
+C:\Users\HP\Music\C#_one_practice\c#_one_practices\Airline booking system\Airline booking system\obj\Debug\Airline booking system.pdb

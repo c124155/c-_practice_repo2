@@ -1,0 +1,10 @@
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\bin\Debug\Course regesteration system.exe.config
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\bin\Debug\Course regesteration system.exe
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\bin\Debug\Course regesteration system.pdb
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course regesteration system.csproj.AssemblyReference.cache
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course_regesteration_system.Form1.resources
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course_regesteration_system.Properties.Resources.resources
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course regesteration system.csproj.GenerateResource.cache
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course regesteration system.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course regesteration system.exe
+C:\Users\IQRA\source\repos\Course regesteration system\Course regesteration system\obj\Debug\Course regesteration system.pdb
