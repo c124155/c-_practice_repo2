@@ -1,0 +1,11 @@
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment shala.csproj.AssemblyReference.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment_shala.Form1.resources
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment_shala.Properties.Resources.resources
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment shala.csproj.GenerateResource.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment shala.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\bin\Debug\assigment shala.exe.config
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\bin\Debug\assigment shala.exe
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\bin\Debug\assigment shala.pdb
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment shala.exe
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment shala.pdb
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment shala\assigment shala\obj\Debug\assigment shala.exe.config
