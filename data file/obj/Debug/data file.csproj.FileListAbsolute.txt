@@ -1,0 +1,11 @@
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\bin\Debug\data file.exe.config
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\bin\Debug\data file.exe
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\bin\Debug\data file.pdb
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data file.csproj.AssemblyReference.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data_file.Form1.resources
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data_file.Properties.Resources.resources
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data file.csproj.GenerateResource.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data file.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data file.exe
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data file.pdb
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\data file\data file\obj\Debug\data file.exe.config
