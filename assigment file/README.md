@@ -21,4 +21,4 @@ This C# program checks whether a file exists. If it exists,
 This C# program removes the selected item from the ListBox, 
 saves the remaining items to a file, and displays a success message.
  If no item is selected or an error occurs,
- it displays an appropriate message. 
+ it display
