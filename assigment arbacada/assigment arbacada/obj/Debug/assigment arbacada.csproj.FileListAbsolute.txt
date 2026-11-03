@@ -1,0 +1,11 @@
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\bin\Debug\assigment arbacada.exe.config
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\bin\Debug\assigment arbacada.exe
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\bin\Debug\assigment arbacada.pdb
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment arbacada.csproj.AssemblyReference.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment_arbacada.Form1.resources
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment_arbacada.Properties.Resources.resources
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment arbacada.csproj.GenerateResource.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment arbacada.csproj.CoreCompileInputs.cache
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment arbacada.exe
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment arbacada.pdb
+C:\Users\IQRA\Documents\AIRLINE TICKET BOOKING\assigment arbacada\assigment arbacada\obj\Debug\assigment arbacada.exe.config
